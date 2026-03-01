@@ -1,4 +1,4 @@
-# WizPets
+# WyrdPets
 
 WizPets is a Paper/Spigot plugin that gives every player a loyal magical companion. Pets orbit their owner, heal, fight, fly, and even act as living mounts, all while their data is stored safely inside Bukkit's Persistent Data Containers (PDCs). The project has been rebuilt around a modular service architecture, exposing an official API so other plugins can extend every part of the experience.
 
